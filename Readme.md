@@ -25,7 +25,7 @@ Aanvullingen voor dit handboek zijn altijd welkom, net zoals je suggesties op al
 ## Missie<a name="missie"></a>
 > Webwinkel magazijnen professionaliseren met eenvoudig te gebruiken software, inclusief fanatieke ondersteuning.
 
-Hoe kunnen we webwinkel magazijnen efficienter en effectiever laten werken? Hoe kunnen we onze software nog eenvoudiger maken in gebruik? Hoe kunnen we klanten het beste helpen? Dat zijn vragen waar we bij Picqer continu mee bezig zijn.
+Hoe kunnen we webwinkel magazijnen efficiënter en effectiever laten werken? Hoe kunnen we onze software nog eenvoudiger maken in gebruik? Hoe kunnen we klanten het beste helpen? Dat zijn vragen waar we bij Picqer continu mee bezig zijn.
 
 En soms kunnen we magazijnen helpen zonder software. Bijvoorbeeld door ze een goede tip te geven of ze te inspireren.
 
